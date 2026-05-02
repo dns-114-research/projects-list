@@ -37,4 +37,3 @@
 
 ---
 
-*This repository is intentionally kept minimal — no personal identifiers, no institutional affiliations.*
